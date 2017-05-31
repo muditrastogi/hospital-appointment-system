@@ -1,0 +1,57 @@
+.register{
+  width:320px;
+  height: 50px;
+  background-color: #5A87F2;
+  font-size: 30px;
+  border-radius: 15px ;
+  font-family: "Times New Roman", Times, serif;
+  margin: 10px;
+}
+
+.form_box{
+  width: 500px;
+  margin-top: 10px;
+
+}
+
+.form{
+  border: 3px solid;
+  border-style:groove; 
+  width: 620px;
+  border-radius: 15px;
+  background-color: #B3C7F5;
+  margin: auto;
+  padding:10px;
+}
+
+.jumbotron{
+  border: 3px solid;
+  border-style:groove;
+  width: 1200px;
+  border-radius: 25px;
+  background-color: #B3C7F5;
+  margin: auto;
+  padding:20px;
+  background: #ffffff;
+  color: #5A87F2;
+}
+
+.navbar{
+  background-color: #B3C7F5;
+}
+body{
+		background-image: url('image/background.jpg');
+	}
+.register a {
+		text-decoration:none;
+	}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #B3C7F5;
+}
+
